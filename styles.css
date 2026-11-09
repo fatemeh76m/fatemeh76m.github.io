@@ -5,3 +5,4 @@
 .cv-inner .cv-hint{font-size:10px;color:#727c69;margin:8px 0 0}
 .contact-phone{display:inline-flex;align-items:center;gap:24px;margin:12px 0 0;color:#d0d6df;font-size:12px}.contact-phone span{color:var(--lime)}
 button.contact-email{font-family:var(--sans);text-align:left;cursor:pointer}.contact-email:hover{color:var(--lime)}.contact-email:focus-visible{outline:2px solid var(--lime);outline-offset:5px}.copy-status{min-height:14px;margin:7px 0 0;color:var(--lime);font-size:10px}.email-compose{display:inline-block;margin:5px 0 0;color:#9da9b8;font-size:10px;border-bottom:1px solid #586679;padding-bottom:3px}.email-compose:hover{color:#fff}
+button.contact-email{appearance:none;-webkit-appearance:none;background:transparent;border:0;border-bottom:1px solid #677386;border-radius:0;padding:0 0 8px;color:#fff}.email-compose{display:table;margin:10px 0 0}.contact-phone{display:flex;width:max-content;margin:12px 0 0}
