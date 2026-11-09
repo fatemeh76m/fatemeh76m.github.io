@@ -30,7 +30,7 @@
       fallback.style.opacity = '0';
       document.body.appendChild(fallback);
       fallback.select();
-      copied = document.execCommand('copy');
+      try { copied = document.execCommand('copy'); } catch (_) { copied = false; }
       fallback.remove();
     }
     const italian = document.documentElement.lang === 'it';
