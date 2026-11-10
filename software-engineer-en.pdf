@@ -9,14 +9,14 @@ endobj
 <<
 /Type /Pages
 /Count 2
-/Kids [ 4 0 R 23 0 R ]
+/Kids [ 4 0 R 21 0 R ]
 >>
 endobj
 3 0 obj
 <<
 /Type /Catalog
 /Pages 2 0 R
-/Outlines 25 0 R
+/Outlines 23 0 R
 >>
 endobj
 4 0 obj
@@ -24,7 +24,7 @@ endobj
 /Contents 5 0 R
 /MediaBox [ 0 0 595.2756 841.8898 ]
 /Resources <<
-/Font 8 0 R
+/Font 6 0 R
 /ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
 >>
 /Rotate 0
@@ -32,7 +32,7 @@ endobj
 >>
 /Type /Page
 /Parent 2 0 R
-/Annots [ 26 0 R 27 0 R 28 0 R 29 0 R ]
+/Annots [ 24 0 R 25 0 R 26 0 R 27 0 R ]
 >>
 endobj
 5 0 obj
@@ -360,381 +360,52 @@ endstream
 endobj
 6 0 obj
 <<
-/Length 9187
+/F1 7 0 R
+/F1-0 8 0 R
+/F2+0 9 0 R
+/F3+0 13 0 R
+/F4+0 17 0 R
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 58 785.8898 cm
-q
-.066667 .066667 .066667 rg
-BT 1 0 0 1 0 2 Tm 146.1212 0 Td /F2+0 17 Tf 19 TL (Fatemeh Maddahzadeh) Tj T* -146.1212 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 773.8898 cm
-q
-BT 1 0 0 1 0 1.8 Tm 159.6072 0 Td 11 TL .133333 .133333 .133333 rg /F3+0 9.2 Tf 11 TL (Software Engineer - Backend & AI/LLM) Tj T* -159.6072 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 763.8898 cm
-q
-.133333 .133333 .133333 rg
-BT 1 0 0 1 0 1.5 Tm 141.4383 0 Td /F3+0 7.5 Tf 9 TL (Turin, Italy | fatemeh76m@gmail.com | \(+39\) 351 731 1645) Tj T* -141.4383 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 754.8898 cm
-q
-BT 1 0 0 1 0 1.5 Tm 144.4449 0 Td 9 TL .082353 .321569 .780392 rg /F3+0 7.5 Tf 9 TL (linkedin.com/in/f-maddahzadeh) Tj .133333 .133333 .133333 rg ( | ) Tj .082353 .321569 .780392 rg (github.com/fatemeh76m) Tj T* -144.4449 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 749.8898 cm
-Q
-q
-1 0 0 1 58 733.8898 cm
-q
-.082353 .321569 .780392 rg
-BT 1 0 0 1 0 1.4 Tm /F2+0 9.6 Tf 11 TL (Profile) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 732.3398 cm
-q
-.55 w
-1 J
-.082353 .321569 .780392 RG
-n 0 0 m 479.2756 0 l S
-Q
-Q
-q
-1 0 0 1 58 682.0898 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 40.1 Tm /F3+0 8.15 Tf 9.65 TL (Backend-focused Software Engineer with 6+ years of experience in Node.js/TypeScript, microservices and cloud \(Google Cloud) Tj T* (Platform, Kubernetes\). At Glue Labs I was the founding backend engineer of a production multi-tenant LLM platform: RAG on) Tj T* (PostgreSQL/pgvector, multi-provider LLM integration, tool calling, MCP and AI agents, background jobs and deployment on GCP.) Tj T* (Former Backend Team Leader \(Scrum, code reviews, mentoring\). Completing an MSc at Politecnico di Torino with a thesis on) Tj T* (multi-LLM systems. Available immediately.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 666.0898 cm
-q
-.082353 .321569 .780392 rg
-BT 1 0 0 1 0 1.4 Tm /F2+0 9.6 Tf 11 TL (Professional Experience) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 664.5398 cm
-q
-.55 w
-1 J
-.082353 .321569 .780392 RG
-n 0 0 m 479.2756 0 l S
-Q
-Q
-q
-1 0 0 1 58 652.4398 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.55 Tm /F2+0 8.25 Tf 9.8 TL (- Software Engineer at Glue Labs) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 635.0398 cm
-q
-BT 1 0 0 1 0 9.75 Tm 8.6 TL .266667 .266667 .266667 rg /F4+0 7.45 Tf 8.6 TL (Mar. 2023 - Dec. 2025 | Turin, Italy | Part-time, alongside MSc | Pupau \() Tj .082353 .321569 .780392 rg (pupau.ai) Tj .266667 .266667 .266667 rg (\): a multi-tenant B2B platform where companies build AI) Tj T* (assistants and agents on their own knowledge bases.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 616.2398 cm
-q
-BT 1 0 0 1 11 10.4 Tm -8 0 Td 9.15 TL 0 0 0 rg /F3+0 7.9 Tf 9.15 TL (- ) Tj /F2+0 7.9 Tf 9.15 TL (Founding backend engineer:) Tj /F3+0 7.9 Tf 9.15 TL ( built the core platform alone for its first ~6 months \(data model, ingestion, RAG, conversations,) Tj T* 8 0 Td (deployment\), then kept ownership of the AI core as the team grew to up to 7 developers \(~1,650 commits, 2nd-highest contributor\)) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 597.2398 cm
-q
-0 0 0 rg
-BT 1 0 0 1 11 10.4 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- Built modular services with NestJS, TypeORM and RxJS: multi-tenant access with API keys, background jobs on Google Cloud Tasks) Tj T* 8 0 Td (and Cloud Scheduler, and per-call cost tracking of LLM and embedding usage) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 578.2398 cm
-q
-BT 1 0 0 1 11 10.4 Tm -8 0 Td 9.15 TL 0 0 0 rg /F3+0 7.9 Tf 9.15 TL (- ) Tj /F2+0 7.9 Tf 9.15 TL (Built end-to-end RAG:) Tj /F3+0 7.9 Tf 9.15 TL ( document and web ingestion, tiktoken-based chunking, async embedding, PostgreSQL + pgvector similarity) Tj T* 8 0 Td (search \(IVFFlat\) and versioned chunks for zero-downtime re-indexing) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 559.2398 cm
-q
-0 0 0 rg
-BT 1 0 0 1 11 10.4 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- Designed a multi-provider LLM and embedding layer \(OpenAI, Azure OpenAI, Anthropic, Google Gemini, Vertex AI, Groq, Mistral\)) Tj T* 8 0 Td (behind one interface, with a factory for provider selection and load balancing) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 540.2398 cm
-q
-0 0 0 rg
-BT 1 0 0 1 11 10.4 Tm -8 0 Td -0.018723 Tw /F3+0 7.9 Tf 9.15 TL (- Created the actor-based AI agent framework \(later grown by the team to ~30 actors: web search, code interpreter, browser automation,) Tj T* 0 Tw 8 0 Td (database\) for multi-step pipelines, with tool calling, an MCP client and approval before tools run) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 521.2398 cm
-q
-BT 1 0 0 1 11 10.4 Tm -8 0 Td 9.15 TL 0 0 0 rg /F3+0 7.9 Tf 9.15 TL (- ) Tj /F2+0 7.9 Tf 9.15 TL (Ran it in production:) Tj /F3+0 7.9 Tf 9.15 TL ( Server-Sent Events streaming, LLM guardrails, LLM call logs and Prometheus metrics; set up the first staging) Tj T* 8 0 Td (and production environments on GCP, later run on GKE and App Engine with versioned DB migrations) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 509.1398 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.55 Tm /F2+0 8.25 Tf 9.8 TL (- Backend Team Leader at Lamasoo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 500.3398 cm
-q
-.266667 .266667 .266667 rg
-BT 1 0 0 1 0 1.15 Tm /F4+0 7.45 Tf 8.6 TL (Jan. 2022 - Sep. 2022 | Tehran, Iran | Online channel manager for the hospitality industry, serving hotels and agencies.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 490.6898 cm
-q
-BT 1 0 0 1 11 1.25 Tm -8 0 Td 9.15 TL 0 0 0 rg /F3+0 7.9 Tf 9.15 TL (- ) Tj /F2+0 7.9 Tf 9.15 TL (Led a team of 3 backend developers:) Tj /F3+0 7.9 Tf 9.15 TL ( hiring, mentoring, task assignment and progress reviews) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 480.8398 cm
-q
-0 0 0 rg
-BT 1 0 0 1 11 1.25 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- Planned sprints and technical tasks using Scrum, running daily stand-ups and review meetings) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 470.9898 cm
-q
-0 0 0 rg
-BT 1 0 0 1 11 1.25 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- Conducted code reviews to ensure code quality and compliance with technical and client requirements) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 461.1398 cm
-q
-0 0 0 rg
-BT 1 0 0 1 11 1.25 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- Designed scalable microservices and oversaw system changes and performance) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 451.2898 cm
-q
-0 0 0 rg
-BT 1 0 0 1 11 1.25 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- Worked with the product team on priorities and fast resolution of reported bugs) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 439.1898 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.55 Tm /F2+0 8.25 Tf 9.8 TL (- Software Engineer at Lamasoo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 430.3898 cm
-q
-.266667 .266667 .266667 rg
-BT 1 0 0 1 0 1.15 Tm /F4+0 7.45 Tf 8.6 TL (Jun. 2020 - Jan. 2022 | Tehran, Iran) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 420.7398 cm
-q
-0 0 0 rg
-BT 1 0 0 1 11 1.25 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- Designed and implemented multiple microservices in Node.js/TypeScript) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 410.8898 cm
-q
-0 0 0 rg
-BT 1 0 0 1 11 1.25 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- Refactored the codebase towards a microservices architecture, improving maintainability) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 401.0398 cm
-q
-0 0 0 rg
-BT 1 0 0 1 11 1.25 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- Developed RESTful APIs and worked with front-end developers on integration) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 391.1898 cm
-q
-0 0 0 rg
-BT 1 0 0 1 11 1.25 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- Optimized database queries and performance, writing efficient, reusable and testable code) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 379.0898 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.55 Tm /F2+0 8.25 Tf 9.8 TL (- Software Engineer at Linkap) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 370.2898 cm
-q
-.266667 .266667 .266667 rg
-BT 1 0 0 1 0 1.15 Tm /F4+0 7.45 Tf 8.6 TL (Feb. 2019 - Jun. 2020 | Tehran, Iran | IoT start-up in the smart home industry.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 360.6398 cm
-q
-0 0 0 rg
-BT 1 0 0 1 11 1.25 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- Developed the Node.js backend of a smart home application) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 350.7898 cm
-q
-0 0 0 rg
-BT 1 0 0 1 11 1.25 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- Integrated IoT devices \(LoRaWAN, Zigbee\) in real time, with dynamic storage of device data in MongoDB) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 340.9398 cm
-q
-0 0 0 rg
-BT 1 0 0 1 11 1.25 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- Contributed to the system architecture design and wrote technical documentation \(API and database design\)) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 324.9398 cm
-q
-.082353 .321569 .780392 rg
-BT 1 0 0 1 0 1.4 Tm /F2+0 9.6 Tf 11 TL (Education) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 323.3898 cm
-q
-.55 w
-1 J
-.082353 .321569 .780392 RG
-n 0 0 m 479.2756 0 l S
-Q
-Q
-q
-1 0 0 1 58 311.2898 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1.55 Tm /F2+0 8.25 Tf 9.8 TL (- Politecnico di Torino) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 302.4898 cm
-q
-.266667 .266667 .266667 rg
-BT 1 0 0 1 0 1.15 Tm /F4+0 7.45 Tf 8.6 TL (Sep. 2022 - Nov. 2026 \(expected\) | Turin, Italy | MSc in Software Applications) Tj T* ET
-Q
-Q
-q
-1 0 0 1 58 292.8398 cm
-q
-0 0 0 rg
-BT 1 0 0 1 11 1.25 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- GPA 25/30) Tj T* 8 0 Td ET
-Q
-Q
-q
-1 0 0 1 58 264.6898 cm
-q
-BT 1 0 0 1 11 19.55 Tm -8 0 Td 9.15 TL 0 0 0 rg /F3+0 7.9 Tf 9.15 TL (- ) Tj /F2+0 7.9 Tf 9.15 TL (Thesis:) Tj /F3+0 7.9 Tf 9.15 TL ( Handoff-Aware Routing and Drift Detection for Multi-LLM Systems. Built a Python middleware on LiteLLM that detects) Tj T* 8 0 Td (mid-conversation model switches; compared 4 mitigation strategies across 400 trials with 5 LLMs. The best strategy raised the) Tj T* (full-pass rate from 67% to 74%) Tj T* ET
-Q
-Q
- 
-
-Q
-
-endstream
 endobj
 7 0 obj
 <<
-/Length 207
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
-stream
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-BT
-/F1-0 8.2 Tf
-9.84 TL
-ET
-0.12 0.31 0.78 rg
-BT
-1 0 0 1 240.8938 746.3898 Tm
-(Portfolio\072 fatemeh76m\056github\056io) Tj
-T*
-ET
-Q
-
-endstream
 endobj
 8 0 obj
 <<
-/F1 9 0 R
-/F1-0 10 0 R
-/F2+0 11 0 R
-/F3+0 15 0 R
-/F4+0 19 0 R
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
->>
-endobj
-11 0 obj
-<<
 /BaseFont /AAAAAA+LiberationSans-Bold
 /FirstChar 0
-/FontDescriptor 12 0 R
+/FontDescriptor 10 0 R
 /LastChar 127
 /Name /F2+0
 /Subtype /TrueType
-/ToUnicode 14 0 R
+/ToUnicode 12 0 R
 /Type /Font
 /Widths [ 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 277.832 333.0078 474.1211 556.1523 556.1523 889.1602 722.168 237.793 333.0078 333.0078 389.1602 583.9844 277.832 333.0078 277.832 277.832 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 333.0078 333.0078 583.9844 583.9844 583.9844 610.8398 975.0977 722.168 722.168 722.168 722.168 666.9922 610.8398 777.832 722.168 277.832 556.1523 722.168 610.8398 833.0078 722.168 777.832 666.9922 777.832 722.168 666.9922 610.8398 722.168 666.9922 943.8477 666.9922 666.9922 610.8398 333.0078 277.832 333.0078 583.9844 556.1523 333.0078 556.1523 610.8398 556.1523 610.8398 556.1523 333.0078 610.8398 610.8398 277.832 277.832 556.1523 277.832 889.1602 610.8398 610.8398 610.8398 610.8398 389.1602 556.1523 333.0078 610.8398 556.1523 777.832 556.1523 556.1523 500 389.1602 279.7852 389.1602 583.9844 750 ]
 >>
 endobj
-12 0 obj
+10 0 obj
 <<
 /Ascent 728.0273
 /CapHeight 687.9883
 /Descent -210.4492
 /Flags 262148
 /FontBBox [ -481.9336 -376.4648 1304.199 1033.203 ]
-/FontFile2 13 0 R
+/FontFile2 11 0 R
 /FontName /AAAAAA+LiberationSans-Bold
 /ItalicAngle 0
 /MissingWidth 750
@@ -742,7 +413,7 @@ endobj
 /Type /FontDescriptor
 >>
 endobj
-13 0 obj
+11 0 obj
 <<
 /Filter [ /FlateDecode ]
 /Length1 26092
@@ -818,7 +489,7 @@ Xl√EˇJˆSéío c5Ov&_∫Y”˝KèΩüj!Gπ<Dˇ$yï?B÷≠ƒèó[Ÿüƒ∑»L8Kb€\º8æ?Qª»tÑﬂÄœ%ÏûGl
 ƒ:/°ﬂÏâ÷RDÏÉZ{»3Ãë[‹ˇµ& Ô
 endstream
 endobj
-14 0 obj
+12 0 obj
 <<
 /Filter [ /FlateDecode ]
 /Length 679
@@ -837,27 +508,27 @@ xúÖ’€jQ∆Ò{üb.[J—Ì:• Bz¢ˆÃ8¶Bá—\‰Ìª>øêl
 ü??√©
 endstream
 endobj
-15 0 obj
+13 0 obj
 <<
 /BaseFont /AAAAAA+LiberationSans
 /FirstChar 0
-/FontDescriptor 16 0 R
+/FontDescriptor 14 0 R
 /LastChar 127
 /Name /F3+0
 /Subtype /TrueType
-/ToUnicode 18 0 R
+/ToUnicode 16 0 R
 /Type /Font
 /Widths [ 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 277.832 277.832 354.9805 556.1523 556.1523 889.1602 666.9922 190.918 333.0078 333.0078 389.1602 583.9844 277.832 333.0078 277.832 277.832 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 277.832 277.832 583.9844 583.9844 583.9844 556.1523 1015.137 666.9922 666.9922 722.168 722.168 666.9922 610.8398 777.832 722.168 277.832 500 666.9922 556.1523 833.0078 722.168 777.832 666.9922 777.832 722.168 666.9922 610.8398 722.168 666.9922 943.8477 666.9922 666.9922 610.8398 277.832 277.832 277.832 469.2383 556.1523 333.0078 556.1523 556.1523 500 556.1523 556.1523 277.832 556.1523 556.1523 222.168 222.168 500 222.168 833.0078 556.1523 556.1523 556.1523 556.1523 333.0078 500 277.832 556.1523 500 722.168 500 500 500 333.9844 259.7656 333.9844 583.9844 750 ]
 >>
 endobj
-16 0 obj
+14 0 obj
 <<
 /Ascent 728.0273
 /CapHeight 687.9883
 /Descent -210.4492
 /Flags 4
 /FontBBox [ -543.9453 -303.2227 1301.758 979.9805 ]
-/FontFile2 17 0 R
+/FontFile2 15 0 R
 /FontName /AAAAAA+LiberationSans
 /ItalicAngle 0
 /MissingWidth 750
@@ -865,7 +536,7 @@ endobj
 /Type /FontDescriptor
 >>
 endobj
-17 0 obj
+15 0 obj
 <<
 /Filter [ /FlateDecode ]
 /Length1 26892
@@ -942,7 +613,7 @@ lõt∞Te:(“¡Pxt`’ßÉs:¯@«t∞MÎ:√( ”ïj•Æc≈ß¥\¡[BÀ]ùÀW—Ú¥\´É>XÒNÁäºˇ!Ì0◊0Ö:»–Å
 è‘i:¬ ~€sVæ˚pﬁ·Qák7ﬁzxÔaµÛ‘Ìﬂ∂?ºü5ÏáµœA¯90<Ç·@ﬁÅÿ¶⁄0∑ÑœÑŸåΩy{ômœÜüeZû=Û,ì±;o7≥ıhŸuf3jÁöùL∆Œ⁄ùGw∂Ì‰6oJvnÇ⁄ıpt=¨œOp?¥Œ·6¨sØk\∑f]€:>Û˛¿˝L”˝P∑¶i≥v¥¨9≥ÜuoÈΩµ˜≤ÀÛ€‹[ó¡“%Ω‹°<wR[3¿]ìü„éÁ∏Xøsú⁄œéS·–À∞Æü€Û{πK&∏'‚€íe«#{∏,v‹LtÏ ˆVv&˚ñø0∫-P1ö	åŒÈõù“-ˇt!œ˜∏ÛÕ¯ÏÕá≥˘Úô¶|∞gŸ∆ô¿0Œòe«  üÄ€m»3îú¡êae®5¨1ú5¥‘yXv¡¿÷E‰„,é¿⁄}Ec}æG‘mcFÑ’Ö%aXN+FO´VÑ…∏â%≈˚ Ó.[ΩöNŒ[.KéW`" 'ö0aLÿg'ÉÉ°ÜP√ü¸%A|æPHNÅúÛ)u4æV#6¬L√ÚÖ ¬â‘ÄÂ!òåÈ.=XlÇO»¡ﬂé	;òåà´AÈ"¬v!ƒätÁúL˛?&—O
 endstream
 endobj
-18 0 obj
+16 0 obj
 <<
 /Filter [ /FlateDecode ]
 /Length 673
@@ -951,27 +622,27 @@ stream
 xúu’›jQÜ·Ûπä9lÈÅn◊_"§IÅ˛—ÙåéÈ@á—‰Óª>?I6•tΩ√ÏçœŸö]ﬂ›‹˝©ù}üõ˚Ó‘Ó˙a;u«√”¥È⁄áÓ±ö≤h∑˝Êty:ˇnˆÎ±ôÂÂ˚Á„©€ﬂªC≥\∂≥˘Úxöû€7WÁœªœ˝C7≠O˝a∏_«∑ÕÏ€¥Ì¶~x¸ˇâ˚ßq¸›Ìª·‘Œõ’™›vª¸´/ÎÒÎzﬂµ≥^{=ÙÛyÏ⁄≈˘πPº9lª„∏ﬁ‰Ò·±kñÛ˘™]∆Ì™ÈÜÌ_Ô ‚=Ô<Ï6ø÷”ÂÏ<?´ÏRı¢j©Z´∂™ΩÍ®˙}’™æ™˙c’◊UﬂT˝©Í€◊.ïøT˛R˘KÂ/ïøT˛R˘KÂ/ïøT˛R˘KÂ/ïøT˛R˘KÂ_–ø87˝9≤ÈœëMél˙sd”ü#õ˛ŸÙÁ»¶?G6˝9≤ÈœëMél˙sd”ü#õ˛ŸÙÁhñBø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸A¿Ù¸A¿Ù¸A¿Ù¸A¿Ù¸A¿Ù¸A¿Ù¸A¿Ù¸A¿Ù_6ƒe`W`ÁΩÏ°Õ”4Âä:/∆Û‚¡ ÈáÓewéá∑˝Œà£˝
 endstream
 endobj
-19 0 obj
+17 0 obj
 <<
 /BaseFont /AAAAAA+LiberationSans-Italic
 /FirstChar 0
-/FontDescriptor 20 0 R
+/FontDescriptor 18 0 R
 /LastChar 127
 /Name /F4+0
 /Subtype /TrueType
-/ToUnicode 22 0 R
+/ToUnicode 20 0 R
 /Type /Font
 /Widths [ 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 277.832 277.832 354.9805 556.1523 556.1523 889.1602 666.9922 190.918 333.0078 333.0078 389.1602 583.9844 277.832 333.0078 277.832 277.832 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 556.1523 277.832 277.832 583.9844 583.9844 583.9844 556.1523 1015.137 666.9922 666.9922 722.168 722.168 666.9922 610.8398 777.832 722.168 277.832 500 666.9922 556.1523 833.0078 722.168 777.832 666.9922 777.832 722.168 666.9922 610.8398 722.168 666.9922 943.8477 666.9922 666.9922 610.8398 277.832 277.832 277.832 469.2383 556.1523 333.0078 556.1523 556.1523 500 556.1523 556.1523 277.832 556.1523 556.1523 222.168 222.168 500 222.168 833.0078 556.1523 556.1523 556.1523 556.1523 333.0078 500 277.832 556.1523 500 722.168 500 500 500 333.9844 259.7656 333.9844 583.9844 750 ]
 >>
 endobj
-20 0 obj
+18 0 obj
 <<
 /Ascent 728.0273
 /CapHeight 687.9883
 /Descent -207.5195
 /Flags 68
 /FontBBox [ -664.0625 -303.2227 1360.84 1014.16 ]
-/FontFile2 21 0 R
+/FontFile2 19 0 R
 /FontName /AAAAAA+LiberationSans-Italic
 /ItalicAngle -12
 /MissingWidth 750
@@ -979,7 +650,7 @@ endobj
 /Type /FontDescriptor
 >>
 endobj
-21 0 obj
+19 0 obj
 <<
 /Filter [ /FlateDecode ]
 /Length1 23548
@@ -1060,7 +731,7 @@ s6àÀù∫uas}DHZÇ93Zgœ
 ∆Ñ648l∂Œïˇ]0Pf03S.∂f Eûï6`πë˛Ç¡Ã{k∏"ÿJﬂÇDPˇ•µ¡ ≠ÕDr˜‡‹…öâ&[q@¬ºìüI˚°(›?yÇÃ…AòÑíQ¬B¿Ø5:$v2˙?M_ªD
 endstream
 endobj
-22 0 obj
+20 0 obj
 <<
 /Filter [ /FlateDecode ]
 /Length 681
@@ -1069,12 +740,12 @@ stream
 xúÖ’›jQÜ·sØb[J—Ì˙kAÑ4i@Ëµ7`∆1à£åÊ wﬂı˘Öd”Év@◊;Ãl|<Z”Î’ÕjËœÕÙ«xh◊›πŸı√vÏNá«±ÌöªÓæ&eﬁl˚ˆ¸|w˘n˜õ„döá◊Oßs∑_ª√d±h¶?Û·È<>5oÆ.◊ª/˝]7nŒ˝aXoÜ”˚’yÛ–∑o'”Ô„∂˚·˛ø/Æè«ánﬂÁf6Y.õm∑À˛∫9~€Ïªf˙Ø”ØÔ˛z:vÕ¸r_¯7⁄√∂;7mûÓª…b6[6ã∏]N∫a˚◊≥2ˇ¿3wªˆ˜f|~wñ◊2ªT=ØZ™÷™≠jØ:™˛Pı«™Ø™˛Tıu’7UÆ˙ˆµKÂ/ïøT˛R˘KÂ/ïøT˛R˘KÂ/ïøT˛R˘KÂ/ïøT˛R˘ÁÙœ/Mél˙sd”ü#õ˛ŸÙÁ»¶?G6˝9≤ÈœëMél˙sd”ü#õ˛ŸÙÁ»¶?G6˝9&°_‡˙~°_‡˙~°_‡˙~°_‡˙~°_‡˙~°_‡˙~°_‡˙~°_‡˙~•_·W˙~•_·W˙~•_·W˙~•_·W˙~•_·W˙~•_·W˙~•_·W˙~•_·W˙~£ﬂ‡7˙~£ﬂ‡7˙~£ﬂ‡7˙~£ﬂ‡7˙~£ﬂ‡7˙~£ﬂ‡7˙~£ﬂ‡7˙~£ﬂ‡7˙~ßﬂ·w˙~ßﬂ·w˙~ßﬂ·w˙~ßﬂ·w˙~ßﬂ·w˙~ßﬂ·w˙~ßﬂ·w˙~ßﬂ·w˙˛†?‡˙˛†?‡˙˛†?‡˙˛†?‡˙˛†?‡˙˛†?‡˙˛†?‡˙˛†?‡˙ü7ƒÛ&¿Æ¿"|YGÌ„8Ê¶∫lÀÀ‚¡ ÈáÓe°Gú¬Áôb´Ü
 endstream
 endobj
-23 0 obj
+21 0 obj
 <<
-/Contents 24 0 R
+/Contents 29 0 R
 /MediaBox [ 0 0 595.2756 841.8898 ]
 /Resources <<
-/Font 8 0 R
+/Font 6 0 R
 /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >>
 /Rotate 0
@@ -1082,10 +753,10 @@ endobj
 >>
 /Type /Page
 /Parent 2 0 R
-/Annots [ 30 0 R ]
+/Annots [ 28 0 R ]
 >>
 endobj
-24 0 obj
+22 0 obj
 <<
 /Filter [ /ASCII85Decode /FlateDecode ]
 /Length 2075
@@ -1094,11 +765,11 @@ stream
 GauHL>uT`R'Rf^WgnuUW%?UVs0_9s)X>;o4&ne8RHte`J>*F'*])sgr5CQBUTT"L@[n9.BKQQD>T$ukOiDC9'?MPM96jFn&T6TG).%HCNEB=l+d;c\fD9#lJoR#*Tqeialn)4a-1s6%[h8-e]K/q9NI0rnTC]2q^T%ih<`P1*5#'V#.SV]@.>*pVX$&*c(=LL`Y/VS],k?[*Aa(P)I\+T5a[h[i!92GTfm"Mq>U'!'[DQ!-$k6@b!,G)NsC3fn<k_,#aqj'bPY.Sc<'X.:V0T&D3F=>VN0O3"F2AI+m8n:l3fcA1k=YRfR0Al-H6Kn\lcsB)mnCPQb8Q8<A*j1/N#dXNVBMC7DZqD\CMU#rOI$P;EaF:][]GQ_H\GgrX$%EVc%@MpG-"fib?er39.!]+-*T4)i]ak5qmW_E;`lZ;lMT=`Z2'l,[-!e,-QTk"p?Gg-DfZHMl\D:=#D5#uMoN.<%JHp#\a*O..,@nfW9ilUPi+^,dhm;r$55NM5+//L2gM`;1DL$]X-S..0rRMb3FWQh*[p#8'/=#3-*Z93KU#[f^e]O]:G?YS5Z/N(*o#GD!\/OdGjkVA.]"#06#PaD-BT)+ufCcR$n1ef^Oh.6um;[M+FNR96UEcr1&1f-%kF&(#WA(Yflp`bdT.n/]53iF;I_%;`Lgd0fnaPUF=?Xpk;W->>Td.NtSDfVFT*rBKie:?D+ql+KIfZTVD^5%KP?kLU_I(FQLsL>jF.DD"U2"Xe$AHI0'Ud@eZBuK"Z"uI#/>(<VWk1hH(UO/C'Q[fJ<+J<7&Wn^:4:tgY,f#4'h[5Ye.p-R4<u-'<j3\mK7S7D)NL,$+kD>"=o0Pl%VE%3_6hI4+QmXcn/7T8ECU]=rT\k5^IKje.[4\kT.R(F+gE.\'*<U7u"&^(U@rW^CqCEk9^1&_@6"NDqac^7)MY%PQ88(DuG0'0"dhlRJC`f2jQk@l2NV87aI$r$=T9uV'j"iU*[sJ"gldL/8HHlIc7\f3o9u#:I`%R]njpU*Qag.FMUPd,,$>;>ZLb).*"G9EKOWc;rYT1NAB#W+B@8fmV)f=mP3+QE?>0'%Z7.;JQ-*\2/'j?s,/\QIu+[8;:CZJ4UkaJB9)>8V:8ZXTY+c4+R=XZ:#-AB.'/Q63-HId\n#&CE(2+&G01(h?Td@Ef@?2sEf7W7jt=YoPOY1ME/[iZQK[0V*P`4(uum]$<PD_'R,0&"fPYUP'"UOV&eiA0Sk8;Z+]oT@C$ocA8TZ]$o/I^A4a`R;t@p4@T,[+fJJCM2)&12jlb_uge2+j=^&Xtm&a$>W&62BPF!*T-%;CCQ(p8]$gpF,*6_>CgVbSNCpGZ`00-n#l*Gri>'V82-k,/qn]*(dZ5b4NAtTV8?hF/8S%]@lQMLZ9[4$b&J/H.@uR[5tpj$f5%\BEW+cBS.d2)o.+#E$I@$<3ZM:73&6H!:5pogM;LfNrL?RNK\$Db32M$a4$0VLF>XmrK^-G7(^Ud%RSW,1"XJu*OYT4>8J3R>(l&n;_'I=/4F%bj"Ib2_'8aCuU!Yftj:CW?p7O$JhhNt*%j8m.G9lOQ.X>,aJlOQBO[DKRMnDDa\O+gj]/ip^Rq)=BjSHf?lk#\HU&ZH[&_lm/W+:\CYdI4g.!<#CoF6p?OPCe37#tYcrAnA]8o5is2](TgC5X[uobm/%?!%:#d=Kgr>!GEX]sqr(;DD0_PQ)iO#3]3>@qn)!A.d9PgEM*glN%NmS0jc+4"_/#AlbbLi58@2!1W/PajO>Z3%.0-Y<R\6hs'fh&_%:jgQ_`;(itt9ai*2$7$^h;jYVo=.>M"4C`*Ri7@k7g[;lT#lMNiVS<jQ5FuSmR</1(ncc0I'c7^?/b:j&7H,]b(I!4]q0cfk`Oh)9tmqn\Rh?MaO0X#47Top4Z"[3:4*-Ar!9Ja%_#2-id^uo&8?NR7fD%*Xe%Vft:@(L1@mF5"Y7^cO&KmAJ<jW4a]Pa:S\OBVYLcK#La<iu!k_V]#DpV#-IGOXt.BpJS_EX;D?6[2Fe',Ph\@bLYL4-)DB8;rLi#X*Nq$#FLon;-H?D-0^(3mI$XM1gcVq[$lgq%#^s,=2~>
 endstream
 endobj
-25 0 obj
+23 0 obj
 <<
 >>
 endobj
-26 0 obj
+24 0 obj
 <<
 /A <<
 /S /URI
@@ -1111,7 +782,7 @@ endobj
 /Type /Annot
 >>
 endobj
-27 0 obj
+25 0 obj
 <<
 /A <<
 /S /URI
@@ -1124,7 +795,7 @@ endobj
 /Type /Annot
 >>
 endobj
-28 0 obj
+26 0 obj
 <<
 /A <<
 /S /URI
@@ -1137,7 +808,7 @@ endobj
 /Type /Annot
 >>
 endobj
-29 0 obj
+27 0 obj
 <<
 /Type /Annot
 /Subtype /Link
@@ -1151,7 +822,7 @@ endobj
 /P 4 0 R
 >>
 endobj
-30 0 obj
+28 0 obj
 <<
 /A <<
 /S /URI
@@ -1164,8 +835,181 @@ endobj
 /Type /Annot
 >>
 endobj
+29 0 obj
+<<
+/Length 5166
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 58 795.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.55 Tm /F2+0 8.25 Tf 9.8 TL (- University of Tehran) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58 786.2898 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 1.15 Tm /F4+0 7.45 Tf 8.6 TL (Sep. 2016 - Feb. 2021 | Tehran, Iran | BSc in Computer Engineering \(Software Engineering\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58 776.6398 cm
+q
+BT 1 0 0 1 11 1.25 Tm -8 0 Td 9.15 TL 0 0 0 rg /F3+0 7.9 Tf 9.15 TL (- ) Tj /F2+0 7.9 Tf 9.15 TL (GPA 16.5/20 \(last two years:) Tj /F3+0 7.9 Tf 9.15 TL ( 17.36/20\); ranked the top university in Iran by U.S. News) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 58 766.7898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 11 1.25 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- Ranked 61st in the national university entrance exam) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 58 750.7898 cm
+q
+.082353 .321569 .780392 rg
+BT 1 0 0 1 0 1.4 Tm /F2+0 9.6 Tf 11 TL (Selected Project) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58 749.2398 cm
+q
+.55 w
+1 J
+.082353 .321569 .780392 RG
+n 0 0 m 479.2756 0 l S
+Q
+Q
+q
+1 0 0 1 58 737.1398 cm
+q
+BT 1 0 0 1 0 1.55 Tm 9.8 TL 0 0 0 rg /F2+0 8.25 Tf 9.8 TL (- Mismatch Desk | ) Tj .082353 .321569 .780392 rg (github.com/fatemeh76m/mismatch-desk) Tj 0 0 0 rg ( | Invoice discrepancy review | Portfolio project) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58 718.6398 cm
+q
+0 0 0 rg
+BT 1 0 0 1 11 10.4 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- Developed FastAPI endpoints and a LangGraph workflow with deterministic supplier, item, quantity and price checks across invoices,) Tj T* 8 0 Td (purchase orders and delivery records.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58 699.6398 cm
+q
+0 0 0 rg
+BT 1 0 0 1 11 10.4 Tm -8 0 Td /F3+0 7.9 Tf 9.15 TL (- Added PostgreSQL/Alembic persistence for review cases and append-only human decisions, text-based PDF extraction with pypdf,) Tj T* 8 0 Td (and a Next.js review UI.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58 680.6398 cm
+q
+0 0 0 rg
+BT 1 0 0 1 11 10.4 Tm -8 0 Td -0.105881 Tw /F3+0 7.9 Tf 9.15 TL (- OpenRouter structured extraction includes exact source quotes and flags missing or ambiguous fields for human review. Uses synthetic) Tj T* 0 Tw 8 0 Td (data; no automatic approval or payment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58 664.6398 cm
+q
+.082353 .321569 .780392 rg
+BT 1 0 0 1 0 1.4 Tm /F2+0 9.6 Tf 11 TL (Technical Skills) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58 663.0898 cm
+q
+.55 w
+1 J
+.082353 .321569 .780392 RG
+n 0 0 m 479.2756 0 l S
+Q
+Q
+q
+1 0 0 1 58 652.1898 cm
+q
+BT 1 0 0 1 10 1.15 Tm -8 0 Td 8.9 TL 0 0 0 rg /F3+0 7.75 Tf 8.9 TL (- ) Tj /F2+0 7.75 Tf 8.9 TL (Languages:) Tj /F3+0 7.75 Tf 8.9 TL ( TypeScript, JavaScript \(Node.js\), Python, C++ \(university projects\)) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 58 633.9398 cm
+q
+BT 1 0 0 1 10 10.05 Tm -8 0 Td 8.9 TL 0 0 0 rg /F3+0 7.75 Tf 8.9 TL (- ) Tj /F2+0 7.75 Tf 8.9 TL (Backend:) Tj /F3+0 7.75 Tf 8.9 TL ( FastAPI, pypdf, NestJS, Express.js, TypeORM, Sequelize, Mongoose, RxJS, REST APIs, Server-Sent Events, microservices,) Tj T* 8 0 Td (background jobs and message queues) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58 624.5898 cm
+q
+BT 1 0 0 1 10 1.15 Tm -8 0 Td 8.9 TL 0 0 0 rg /F3+0 7.75 Tf 8.9 TL (- ) Tj /F2+0 7.75 Tf 8.9 TL (Frontend:) Tj /F3+0 7.75 Tf 8.9 TL ( HTML, CSS, React, Next.js) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 58 597.4398 cm
+q
+BT 1 0 0 1 10 18.95 Tm -8 0 Td 8.9 TL 0 0 0 rg /F3+0 7.75 Tf 8.9 TL (- ) Tj /F2+0 7.75 Tf 8.9 TL (AI / LLM:) Tj /F3+0 7.75 Tf 8.9 TL ( RAG, embeddings, pgvector, tool calling, MCP, AI agents, LLM guardrails, prompt engineering, LiteLLM; OpenAI, Azure) Tj T* 8 0 Td (OpenAI, Anthropic, Gemini, Vertex AI, Groq, Mistral, LangGraph, OpenRouter, evidence-grounded structured extraction,) Tj T* (human-in-the-loop review) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58 588.0898 cm
+q
+BT 1 0 0 1 10 1.15 Tm -8 0 Td 8.9 TL 0 0 0 rg /F3+0 7.75 Tf 8.9 TL (- ) Tj /F2+0 7.75 Tf 8.9 TL (Databases:) Tj /F3+0 7.75 Tf 8.9 TL ( PostgreSQL, MongoDB, Redis, SQL, Alembic migrations) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 58 569.8398 cm
+q
+BT 1 0 0 1 10 10.05 Tm -8 0 Td 8.9 TL 0 0 0 rg /F3+0 7.75 Tf 8.9 TL (- ) Tj /F2+0 7.75 Tf 8.9 TL (Cloud & DevOps:) Tj /F3+0 7.75 Tf 8.9 TL ( Google Cloud Platform \(GKE, App Engine, Cloud Build, Cloud Tasks, Cloud Storage\), Kubernetes, Docker,) Tj T* 8 0 Td (Prometheus, Git, Linux) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58 560.4898 cm
+q
+BT 1 0 0 1 10 1.15 Tm -8 0 Td 8.9 TL 0 0 0 rg /F3+0 7.75 Tf 8.9 TL (- ) Tj /F2+0 7.75 Tf 8.9 TL (Messaging & IoT:) Tj /F3+0 7.75 Tf 8.9 TL ( RabbitMQ, MQTT, LoRaWAN, Zigbee) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 58 551.1398 cm
+q
+BT 1 0 0 1 10 1.15 Tm -8 0 Td 8.9 TL 0 0 0 rg /F3+0 7.75 Tf 8.9 TL (- ) Tj /F2+0 7.75 Tf 8.9 TL (Other:) Tj /F3+0 7.75 Tf 8.9 TL ( Scrum, Jira, design patterns, MVC) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 58 541.7898 cm
+q
+BT 1 0 0 1 10 1.15 Tm -8 0 Td 8.9 TL 0 0 0 rg /F3+0 7.75 Tf 8.9 TL (- ) Tj /F2+0 7.75 Tf 8.9 TL (AI-assisted development:) Tj /F3+0 7.75 Tf 8.9 TL ( Codex, Cursor) Tj T* 8 0 Td ET
+Q
+Q
+q
+1 0 0 1 58 525.7898 cm
+q
+.082353 .321569 .780392 rg
+BT 1 0 0 1 0 1.4 Tm /F2+0 9.6 Tf 11 TL (Languages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 58 524.2398 cm
+q
+.55 w
+1 J
+.082353 .321569 .780392 RG
+n 0 0 m 479.2756 0 l S
+Q
+Q
+q
+1 0 0 1 58 512.5898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F3+0 8.15 Tf 9.65 TL (Persian: native | English: Advanced | Italian: Intermediate) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
 xref
-0 31
+0 30
 0000000000 65535 f 
 0000000015 00000 n 
 0000000054 00000 n 
@@ -1173,36 +1017,35 @@ xref
 0000000186 00000 n 
 0000000425 00000 n 
 0000009865 00000 n 
-0000019104 00000 n 
-0000019362 00000 n 
-0000019445 00000 n 
-0000019552 00000 n 
-0000019660 00000 n 
-0000020801 00000 n 
-0000021067 00000 n 
-0000038018 00000 n 
-0000038774 00000 n 
-0000039872 00000 n 
-0000040127 00000 n 
-0000057483 00000 n 
-0000058233 00000 n 
-0000059338 00000 n 
-0000059601 00000 n 
-0000075743 00000 n 
-0000076501 00000 n 
-0000076721 00000 n 
-0000078889 00000 n 
-0000078911 00000 n 
-0000079122 00000 n 
-0000079319 00000 n 
-0000079504 00000 n 
-0000079713 00000 n 
+0000009946 00000 n 
+0000010053 00000 n 
+0000010160 00000 n 
+0000011300 00000 n 
+0000011566 00000 n 
+0000028517 00000 n 
+0000029273 00000 n 
+0000030371 00000 n 
+0000030626 00000 n 
+0000047982 00000 n 
+0000048732 00000 n 
+0000049837 00000 n 
+0000050100 00000 n 
+0000066242 00000 n 
+0000067000 00000 n 
+0000067220 00000 n 
+0000069388 00000 n 
+0000069410 00000 n 
+0000069621 00000 n 
+0000069818 00000 n 
+0000070003 00000 n 
+0000070212 00000 n 
+0000070429 00000 n 
 trailer
 <<
-/Size 31
+/Size 30
 /Root 3 0 R
 /Info 1 0 R
 >>
 startxref
-79930
+75648
 %%EOF
